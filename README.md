@@ -9,9 +9,6 @@
 
 ---
 
-📊 **إحصائيات GitHub**  
-![إحصائياتي](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
 🏆 **الإنجازات**  
 ![جوائزي](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark&no-frame=true&column=3)
 
